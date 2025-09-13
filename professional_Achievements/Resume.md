@@ -2,7 +2,7 @@
 
 Aspiring Data Analytics | IT Support | Software Testing Professional
 📍 India | [LinkedIn](https://www.linkedin.com/in/naga-venkata-varma-mudunuri-5547a216a/) | 
- | [GitHub]_(https://github.com/mnvvarma/Naga-Venkata-Varma_Mudunuri.Github.io/professional_Achievements/Resume.md)
+ | [Github](https://github.com/mnvvarma/Naga-Venkata-Varma_Mudunuri.Github.io/professional_Achievements/Resume.md)
  | [Email](mailto:saivarmamnv@gmail.com)
 
 👋 About Me
