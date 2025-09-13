@@ -1,5 +1,6 @@
 # 🌟 Professional Achievements – Naga Venkata Varma Mudunuri
 
+
 Welcome to my professional portfolio.  
 I bring "3+ years of IT experience" across "Infrastructure (Citrix L3 support, deployments, releases)",  
 "Data Analytics (BI dashboards, Power Apps, Power Automate integrations)", and  
@@ -7,7 +8,7 @@ I bring "3+ years of IT experience" across "Infrastructure (Citrix L3 support, d
 
 This repository showcases my skills and achievements tailored for different career paths:  
 
-- 📊 [Data Analytics Portfolio](https://github.com/mnvvarma/Naga-Venkata-Varma_Mudunuri.Github.io/blob/main/professional_Achievements/data_analytics/Resume.md))  
+- 📊 [Data Analytics Portfolio](https://github.com/mnvvarma/Naga-Venkata-Varma_Mudunuri.Github.io/blob/main/professional_Achievements/data_analytics/Resume.md)  
 - 🧪 [Software Testing Portfolio](https://github.com/mnvvarma/Naga-Venkata-Varma_Mudunuri.Github.io/blob/main/professional_Achievements/software-testing/Resume.md)  
 - 🖥 [Infrastructure Portfolio](https://github.com/mnvvarma/Naga-Venkata-Varma_Mudunuri.Github.io/blob/main/professional_Achievements/it_support/Resume.md)  
 
