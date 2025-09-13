@@ -23,4 +23,4 @@ while continuously learning and adapting.
 
 ### 🔗 Quick Links
 -  [LinkedIn](https://www.linkedin.com/in/naga-venkata-varma-mudunuri-5547a216a/)  
-- [Github](https://github.com/mnvvarma/Naga-Venkata-Varma_Mudunuri.Github.io/README.md)  
+- [Github](https://github.com/mnvvarma/Naga-Venkata-Varma_Mudunuri.Github.io/blob/main/README.md)  
