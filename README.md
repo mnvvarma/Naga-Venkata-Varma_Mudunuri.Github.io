@@ -1,10 +1,10 @@
 # 🌟 Professional Achievements – Naga Venkata Varma Mudunuri
 
-
 Welcome to my professional portfolio.  
+
 I bring "3+ years of IT experience" across "Infrastructure (Citrix L3 support, deployments, releases)",  
 "Data Analytics (BI dashboards, Power Apps, Power Automate integrations)", and  
-"Software Testing (manual + functional testing, foundations for quality assurance)".  
+"Software Testing (manual, API + functional testing, foundations for quality assurance and Performance testing)".  
 
 This repository showcases my skills and achievements tailored for different career paths:  
 
